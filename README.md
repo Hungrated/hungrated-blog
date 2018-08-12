@@ -10,3 +10,5 @@ A set of blogs of techniques written in Markdown.
 * **Vol.3** | 20180810    [朴素贝叶斯](./src/20180810/20180810_naive_bayes.md)
 
 * **Vol.4** | 20180811    [Logistic回归](./src/20180811/20180811_logistic_regression.md)
+
+* **Vol.5** | 20180812    [支持向量机](./src/20180812/20180812_support_vector_machine.md)
