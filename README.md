@@ -14,3 +14,5 @@ A set of blogs of techniques written in Markdown.
 * **Vol.5** | 20180812    [支持向量机](./src/20180812/20180812_support_vector_machine.md)
 
 * **Vol.6** | 20180813    [AdaBoost元算法](./src/20180813/20180813_adaboost.md)
+
+* **Vol.7** | 20180814    [线性回归](./src/20180814/20180814_linear_regression.md)
