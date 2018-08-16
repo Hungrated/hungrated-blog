@@ -18,3 +18,5 @@ A set of blogs of techniques written in Markdown.
 * **Vol.7** | 20180814    [线性回归](./src/20180814/20180814_linear_regression.md)
 
 * **Vol.8** | 20180815    [K-均值算法](./src/20180815/20180815_kmeans.md)
+
+* **Vol.9** | 20180816    [Apriori算法](./src/20180816/20180816_apriori.md)
