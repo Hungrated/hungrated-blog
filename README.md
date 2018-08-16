@@ -20,3 +20,5 @@ A set of blogs of techniques written in Markdown.
 * **Vol.8** | 20180815    [K-均值算法](./src/20180815/20180815_kmeans.md)
 
 * **Vol.9** | 20180816    [Apriori算法](./src/20180816/20180816_apriori.md)
+
+* **Vol.10** | 20180816    [FP-growth算法](./src/20180816/20180816_fpgrowth.md)
