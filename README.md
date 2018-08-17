@@ -22,3 +22,5 @@ A set of blogs of techniques written in Markdown.
 * **Vol.9** | 20180816    [Apriori算法](./src/20180816/20180816_apriori.md)
 
 * **Vol.10** | 20180816    [FP-growth算法](./src/20180816/20180816_fpgrowth.md)
+
+* **Vol.11** | 20180816    [主成分分析](./src/20180817/20180817_pca.md)
